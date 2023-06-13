@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello there, I'm ***Eduardo Bassani*** 👋
+
+### About me
+---
+- I'm a student of Computer Apllications at [HAMK](https://www.hamk.fi/?lang=en)
+- Currently doing an internship at [Feevale](https://www.feevale.br)
+
+
+### My main languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebassani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ebassani/Ebassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
