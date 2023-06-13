@@ -8,7 +8,7 @@
 
 ### My main languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebassani&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebassani&layout=compact&theme=vision-friendly-dark)
 
 <!--
 **Ebassani/Ebassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
