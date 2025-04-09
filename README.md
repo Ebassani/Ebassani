@@ -2,8 +2,8 @@
 
 ### About me
 ---
-- I'm a student of Computer Apllications at [HAMK](https://www.hamk.fi/?lang=en)
-- Currently doing an internship at [Feevale](https://www.feevale.br)
+- Graduate of Computer Apllications at [HAMK](https://www.hamk.fi/?lang=en)
+- Currently working as a developer for [TydeCell]([https://www.feevale.br](https://tydecell.com/))
 
 
 ### My main languages
