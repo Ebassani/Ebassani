@@ -1,4 +1,4 @@
-## Hello there, I'm ***Eduardo Bassani*** 👋
+![Header](https://github.com/Ebassani/Ebassani/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 
 ### About me
 ---
